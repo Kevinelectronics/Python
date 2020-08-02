@@ -1,3 +1,4 @@
+#In these code email adress is validated using regex expressions. Input csv with Email Address field output df with possible invalid emails
 # -*- coding: utf-8 -*-
 """email verification.ipynb
 
